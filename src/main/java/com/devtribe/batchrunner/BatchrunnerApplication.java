@@ -8,6 +8,7 @@ public class BatchrunnerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BatchrunnerApplication.class, args);
+
 	}
 
 }
